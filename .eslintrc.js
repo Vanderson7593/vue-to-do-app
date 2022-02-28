@@ -18,5 +18,6 @@ module.exports = {
         ignores: [],
       },
     ],
+    'eslintimport/no-named-as-default-member': ['off'],
   },
 }
